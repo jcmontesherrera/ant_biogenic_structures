@@ -14,7 +14,7 @@ Johnny Stark & Glenn Johnstone
 Ellis Fjord, Vestfold Hills, Antarctica
 
 ## Taxonomic coverage
-_Serpula narconensis_ colonies
+_Serpula narconensis_ colonies <br>
 Associated fauna identified visually with ID guides and literature
 
 ## Keywords
