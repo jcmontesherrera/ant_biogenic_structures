@@ -29,6 +29,8 @@ juancarlos.montesherrera@utas.edu.au
 	- Frontal ROV video
 	- NADIR GoPro images & video
 - Table of ROV depth & transect times
+- Benthic cover annotations
+- Habitat structural metrics
 
 ## Description of project
 Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reefs, describe a protocol to acquire this data, and discuss monitoring implications.
