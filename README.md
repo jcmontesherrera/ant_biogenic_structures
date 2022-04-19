@@ -7,14 +7,15 @@ Institute for Marine and Antarctic Studies
 
 ## Data acquisition:
 Australian Antarctic Division <br>
+2019 <br>
 Johnny Stark & Glenn Johnstone
 
 ## Geographic coverage
 Ellis Fjord, Vestfold Hills, Antarctica
 
 ## Taxonomic coverage
-Serpula narconensis spp. colonies
-Visual identification + Literature
+_Serpula narconensis_ colony aggregations <br>
+Associated fauna identified visually with ID guides and literature
 
 ## Keywords
 biogenic structure, underwater photogrammetry, structural Complexity, Digital Elevation Model, Remotely Operated Vehicle, benthos
