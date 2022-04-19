@@ -5,19 +5,19 @@ J.C. Montes-Herrera <br>
 juancarlos.montesherrera@utas.edu.au <br>
 Institute for Marine and Antarctic Studies
 
-## Who:
+## Data acquisition:
 Australian Antarctic Division <br>
 Johnny Stark & Glenn Johnstone
 
 ## Geographic coverage
 Ellis Fjord, Vestfold Hills, Antarctica
 
-## Taxonomic coverage / resolution
+## Taxonomic coverage
 Serpula narconensis spp. colonies
 Visual identification + Literature
 
 ## Keywords
-Serpulid reef, Underwater Photogrammetry, Structural Complexity, Digital Elevation Model, Object-based Image Analysis
+biogenic structure, underwater photogrammetry, structural Complexity, Digital Elevation Model, Remotely Operated Vehicle, benthos
 
 ## Responsible(s)
 J.C. Montes-Herrera
