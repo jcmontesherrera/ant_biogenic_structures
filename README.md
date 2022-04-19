@@ -30,9 +30,11 @@ juancarlos.montesherrera@utas.edu.au
 - Table of ROV depth & transect times
 
 ## Description of project
-Habitat heterogeneity or structural complexity provides multiple ecosystem processes that drive biodiversity. There is a lack of knowledge of how much aggregations of polychaete colonies modify structural complexity and associated species. This project aims to characterize the structural complexity metrics that polychaete reefs and its relation with epifauna.
+Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reefs, describe a protocol to acquire this data, and discuss monitoring implications.
 
-## Sampling methods
+## Sampling and processing methods
+- Remotely Operated Vehicle
+- Underwater cameras
 - Structure from Motion photogrammetry
 - Digital Elevation Model & GIS analysis
 - Python with pandas and sklearn libraries
