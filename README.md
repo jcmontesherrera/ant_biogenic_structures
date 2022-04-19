@@ -40,4 +40,5 @@ Habitat-forming organisms possess structural complexity that drive multiple ecos
 - Underwater cameras
 - Structure from Motion photogrammetry
 - Digital Elevation Model & GIS analysis
+- R code developed by Fukunaga et al. (2019)
 - Python with pandas and sklearn libraries
