@@ -1,7 +1,4 @@
-# AAD2019 Ellis Fjord - Polychaete Reef
-
-# Title of dataset:
-ROV imagery & video of Polychaete reef at Ellis Fjord
+# AAD2019 Ellis Fjord - Polychaete Reef Structural Complexity
 
 ## Contact
 J.C. Montes-Herrera <br>
