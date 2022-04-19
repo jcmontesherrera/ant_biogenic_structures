@@ -3,7 +3,7 @@
 ## Contact
 J.C. Montes-Herrera <br>
 juancarlos.montesherrera@utas.edu.au <br>
-Institute for Marine and Antarctic Studies
+Institute for Marine and Antarctic Studies (IMAS)
 
 ## Data acquisition:
 Australian Antarctic Division <br>
