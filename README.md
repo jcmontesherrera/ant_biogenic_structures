@@ -4,8 +4,8 @@
 ROV imagery & video of Polychaete reef at Ellis Fjord
 
 ## Contact
-J.C. Montes-Herrera
-juancarlos.montesherrera@utas.edu.au
+J.C. Montes-Herrera <br>
+juancarlos.montesherrera@utas.edu.au <br>
 Institute for Marine and Antarctic Studies
 
 ## Who:
