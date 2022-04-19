@@ -29,6 +29,7 @@ juancarlos.montesherrera@utas.edu.au
 	- Frontal ROV video
 	- NADIR GoPro images & video
 - Table of ROV depth & transect times
+- Photogrammetry files (.psx)
 - Benthic cover annotations
 - Habitat structural metrics
 
