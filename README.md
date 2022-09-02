@@ -1,9 +1,29 @@
 # AAD2019 Ellis Fjord - Polychaete Reef Structural Complexity
 
+## Description of project
+Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss monitoring implications.
+
 ## Contact
 J.C. Montes-Herrera <br>
 juancarlos.montesherrera@utas.edu.au <br>
 Institute for Marine and Antarctic Studies (IMAS)
+
+## Project Data
+- ROV imagery
+	- Frontal ROV video
+	- NADIR GoPro images & video
+- Table of ROV depth & transect times
+- Photogrammetry files (.psx)
+- Benthic cover annotations
+- Habitat structural metrics
+
+## Sampling and processing methods
+- Remotely Operated Vehicle
+- Underwater cameras
+- Structure from Motion photogrammetry
+- Digital Elevation Model & GIS analysis
+- R code developed by Fukunaga et al. (2019)
+- Python with pandas and sklearn libraries
 
 ## Data acquisition:
 Australian Antarctic Division <br>
@@ -23,23 +43,3 @@ biogenic structure, underwater photogrammetry, structural Complexity, Digital El
 ## Responsible(s)
 J.C. Montes-Herrera
 juancarlos.montesherrera@utas.edu.au
-
-## Project Data
-- ROV imagery
-	- Frontal ROV video
-	- NADIR GoPro images & video
-- Table of ROV depth & transect times
-- Photogrammetry files (.psx)
-- Benthic cover annotations
-- Habitat structural metrics
-
-## Description of project
-Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss monitoring implications.
-
-## Sampling and processing methods
-- Remotely Operated Vehicle
-- Underwater cameras
-- Structure from Motion photogrammetry
-- Digital Elevation Model & GIS analysis
-- R code developed by Fukunaga et al. (2019)
-- Python with pandas and sklearn libraries
