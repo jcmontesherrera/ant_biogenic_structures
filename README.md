@@ -1,7 +1,12 @@
-# AAD2019 Ellis Fjord - Polychaete Reef Structural Complexity
+# Ellis Fjord - Polychaete Reef Structural Complexity
 
 ## Description of project
 Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss monitoring implications.
+
+## Notebook
+Encouragement to use, clone and cite the notebook presented here.
+This is a notebook corresponding to the publication:
+Montes-Herrera et al. 2022 - ----
 
 ## Contact
 J.C. Montes-Herrera <br>
