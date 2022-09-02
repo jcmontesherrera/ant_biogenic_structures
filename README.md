@@ -27,7 +27,7 @@ Institute for Marine and Antarctic Studies (IMAS)
 - Underwater cameras
 - Structure from Motion photogrammetry
 - Digital Elevation Model & GIS analysis
-- R code developed by Fukunaga et al. (2019)
+- R code developed by Fukunaga et al. (2019) https://doi.org/10.3390/jmse7020027
 - Python with pandas and sklearn libraries
 
 ## Data acquisition:
