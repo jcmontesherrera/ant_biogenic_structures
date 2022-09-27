@@ -31,7 +31,7 @@ https://doi.org/10.5281/zenodo.7115132
 - Structure from Motion photogrammetry
 - Digital Elevation Model & GIS analysis
 - R code developed by Fukunaga et al. (2019) https://doi.org/10.3390/jmse7020027
-- Python code
+- Original Python & R code
 
 ## Data acquisition:
 Australian Antarctic Division <br>
