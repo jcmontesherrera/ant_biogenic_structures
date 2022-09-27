@@ -5,8 +5,8 @@ Habitat-forming organisms possess structural complexity that drive multiple ecos
 
 ## Notebook
 Encouragement to use, clone and cite the notebook presented here.
-This is a notebook corresponding to the publication:
-Montes-Herrera et al. 2022 - ----
+This is a notebook corresponding to the submitted publication to Methods in Ecology and Evolution:
+Montes-Herrera et al. 2022 - Towards reproducible analysis of benthos structural complexity: A case study on Antarctic polychaete reefs using action cameras.
 
 ## Contact
 J.C. Montes-Herrera <br>
