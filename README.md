@@ -11,7 +11,7 @@ Montes-Herrera et al. 2022 - Towards reproducible analysis of benthos structural
 ## Contact
 J.C. Montes-Herrera <br>
 juancarlos.montesherrera@utas.edu.au <br>
-Institute for Marine and Antarctic Studies (IMAS), University of Tasmania
+Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Australia
 
 ## Project Data
 - ROV imagery
