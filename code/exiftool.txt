@@ -1,0 +1,3 @@
+## Exiftool examples for batch renaming files to 'CreateDate'
+
+exiftool '-filename<CreateDate' -d %y%m%d_%H%M%S.%%e -r "DIRECTORY"
