@@ -22,6 +22,9 @@ Institute for Marine and Antarctic Studies (IMAS)
 - Benthic cover annotations
 - Habitat structural metrics
 
+## Data availability
+https://doi.org/10.5281/zenodo.7115132
+
 ## Sampling and processing methods
 - Remotely Operated Vehicle
 - Underwater cameras
