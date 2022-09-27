@@ -18,11 +18,11 @@ Institute for Marine and Antarctic Studies (IMAS)
 	- Frontal ROV video
 	- NADIR GoPro images & video
 - Table of ROV depth & transect times
-- Photogrammetry files (.psx)
 - Benthic cover annotations
 - Habitat structural metrics
 
 ## Data availability
+Orthomosaics and Digital Elevation Models available as raster files (.tiff)
 https://doi.org/10.5281/zenodo.7115132
 
 ## Sampling and processing methods
