@@ -3,18 +3,18 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Montes-Herrera"
   given-names: "Juan Carlos"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0000-0002-3471-965X"
 - family-names: "Stark"
   given-names: "Jonny S"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Johnstone"
   given-names: "Glenn J"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Hill"
   given-names: "Nicole"
+- family-names: "Cummings"
+  given-names: "Vonda"
 - family-names: "Lucieer"
   given-names: "Vanessa"
-title: "Structural Metrics of Antarctic biogenic structures"
-version: 2.0.4
+title: "Towards reproducible analysis of benthos structural complexity: A case study on Antarctic polychaete reefs using action cameras"
+version: 1.0
 date-released: 2022-08-22
 url: "https://github.com/jcmontesherrera/ant_biogenic_structures"
