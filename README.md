@@ -1,7 +1,6 @@
 # Towards reproducible analysis of benthos structural complexity: A case study on Antarctic polychaete reefs using action cameras and remotely operated vehicles
 
-![aptenodytes_a_logo_for_an_underwater_camera_company_dedicated__89ad4206-4697-4020-8b22-92a9324046a6](https://github.com/jcmontesherrera/ant_biogenic_structures/assets/12808626/1970800d-2a5c-434b-9bc8-1e7850a9de13)
-
+<img src="https://github.com/jcmontesherrera/ant_biogenic_structures/assets/12808626/1970800d-2a5c-434b-9bc8-1e7850a9de13" width="100" height="100">
 
 ## Description of project
 Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss monitoring implications.
