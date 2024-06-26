@@ -14,7 +14,8 @@ authors:
   given-names: "Vonda"
 - family-names: "Lucieer"
   given-names: "Vanessa"
-title: "Towards reproducible analysis of benthos structural complexity: A case study on Antarctic polychaete reefs using action cameras"
+title: "Structure-from-motion photogrammetry of Antarctic polychaete reefs"
 version: 1.0
-date-released: 2022-08-22
+doi: https://doi.org/10.1002/rse2.358
+date-released: 2023-07-25
 url: "https://github.com/jcmontesherrera/ant_biogenic_structures"
