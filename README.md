@@ -32,8 +32,7 @@ Respectively, benthic biodiversity and structural complexity metrics were retrie
 
 ## Data acquisition:
 Australian Antarctic Division <br>
-2019 <br>
-Johnny Stark & Glenn Johnstone
+2019
 
 ## Geographic coverage
 Ellis Fjord, Vestfold Hills, Antarctica
