@@ -30,7 +30,7 @@ Respectively, benthic biodiversity and structural complexity metrics were retrie
 - R code developed by Fukunaga et al. (2019) https://doi.org/10.3390/jmse7020027
 - Original Python & R code
 
-## Data acquisition:
+## Data acquisition
 Australian Antarctic Division <br>
 2019
 
