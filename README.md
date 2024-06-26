@@ -11,10 +11,11 @@ Orthomosaics and Digital Elevation Models available as raster files (.tiff)
 https://doi.org/10.5281/zenodo.7115132
 
 ## Abstract
-Quantifying the structural complexity of marine benthic organisms represents an essential group of variables in ecology and fisheries. 
-This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss its relevance to current marine ecosystem pressures.
+Quantifying the structural complexity of marine benthic organisms represents an essential group of variables in ecology and fisheries. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss its relevance to current marine ecosystem pressures.
+
 Imagery was collected with a GoPro 5 at 2 Hz mounted on a remotely-operated vehicle in Ellis Fjord, Antarctica by the Australian Antarctic Division in 2019. 
 Orthomosaics and concomitant digital elevation rasters were created in Metashape. A laser-scale of 10 cm was used.
+
 Respectively, benthic biodiversity and structural complexity metrics were retrieved from the orthomosaic and its concomitant digital elevation raster ('3D model').
 
 ## Project Data
