@@ -4,7 +4,11 @@ Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Luci
 
 ## Overview
 This repository contains all the python scripts and notebooks to process the orthomosaic and digital elevation raster files (.tiff) to retrieve benthic structural complexity metrics.
-Encouragement to use, clone and cite the repository presented here.
+Encouragement to use, clone and cite the repository presented here. Notebooks are presented both in python and PDF.
+
+## Data availability
+Orthomosaics and Digital Elevation Models available as raster files (.tiff)
+https://doi.org/10.5281/zenodo.7115132
 
 ## Abstract
 Quantifying the structural complexity of marine benthic organisms represents an essential group of variables in ecology and fisheries. 
@@ -20,10 +24,6 @@ Respectively, benthic biodiversity and structural complexity metrics were retrie
 - Table of ROV depth & transect times
 - Benthic cover annotations (.csv)
 - Habitat structural metrics (.csv)
-
-## Data availability
-Orthomosaics and Digital Elevation Models available as raster files (.tiff)
-https://doi.org/10.5281/zenodo.7115132
 
 ## Sampling and processing methods
 - Remotely Operated Vehicle
