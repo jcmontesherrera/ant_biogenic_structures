@@ -1,4 +1,4 @@
-# **Structure-from-motion photogrammetry of Antarctic polychaete reefs
+# Structure-from-motion photogrammetry of Antarctic polychaete reefs
 This is a notebook corresponding to the publication:<br><br>
 Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Lucieer, V. 2023. **Remote sensing of Antarctic polychaete reefs: Reproducible workflows for quantifying benthic structural complexity with action cameras, remotely operated vehicles, and structure-from-motion photogrammetry**. *Remote Sensing in Ecology and Conservation*, 10: 72-90. https://doi.org/10.1002/rse2.358
 
