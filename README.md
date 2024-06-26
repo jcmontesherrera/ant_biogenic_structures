@@ -12,11 +12,6 @@ Respectively, benthic biodiversity and structural complexity metrics were retrie
 ## Notebook
 Encouragement to use, clone and cite the notebook presented here.
 
-## Contact
-J.C. Montes-Herrera <br>
-juancarlos.montesherrera@utas.edu.au <br>
-Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Australia
-
 ## Project Data
 - ROV imagery
 	- Frontal ROV video
@@ -52,6 +47,7 @@ Associated fauna identified visually with ID guides and literature
 ## Keywords
 biogenic structure, underwater photogrammetry, structural Complexity, Digital Elevation Model, Remotely Operated Vehicle, benthos
 
-## Responsible(s)
-J.C. Montes-Herrera
-juancarlos.montesherrera@utas.edu.au
+## Contact
+J.C. Montes-Herrera <br>
+juancarlos.montesherrera@utas.edu.au <br>
+Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Australia
