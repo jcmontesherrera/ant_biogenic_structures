@@ -3,14 +3,15 @@ This is a notebook corresponding to the publication:<br><br>
 Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Lucieer, V. 2023. **Remote sensing of Antarctic polychaete reefs: Reproducible workflows for quantifying benthic structural complexity with action cameras, remotely operated vehicles, and structure-from-motion photogrammetry**. *Remote Sensing in Ecology and Conservation*, 10: 72-90. https://doi.org/10.1002/rse2.358
 
 ## Overview
+This repository contains all the python scripts and notebooks to process the orthomosaic and digital elevation raster files (.tiff) to retrieve benthic structural complexity metrics.
+Encouragement to use, clone and cite the repository presented here.
+
+## Abstract
 Quantifying the structural complexity of marine benthic organisms represents an essential group of variables in ecology and fisheries. 
 This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss its relevance to current marine ecosystem pressures.
 Imagery was collected with a GoPro 5 at 2 Hz mounted on a remotely-operated vehicle in Ellis Fjord, Antarctica by the Australian Antarctic Division in 2019. 
 Orthomosaics and concomitant digital elevation rasters were created in Metashape. A laser-scale of 10 cm was used.
 Respectively, benthic biodiversity and structural complexity metrics were retrieved from the orthomosaic and its concomitant digital elevation raster ('3D model').
-
-## Notebook
-Encouragement to use, clone and cite the notebook presented here.
 
 ## Project Data
 - ROV imagery
