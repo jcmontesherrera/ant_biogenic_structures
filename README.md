@@ -1,12 +1,16 @@
-# Towards reproducible analysis of benthos structural complexity: A case study on Antarctic polychaete reefs using action cameras and remotely operated vehicles
+# **Structure-from-motion photogrammetry of Antarctic polychaete reefs
+This is a notebook corresponding to the publication:<br><br>
+Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Lucieer, V. 2023. **Remote sensing of Antarctic polychaete reefs: Reproducible workflows for quantifying benthic structural complexity with action cameras, remotely operated vehicles, and structure-from-motion photogrammetry**. *Remote Sensing in Ecology and Conservation*, 10: 72-90. https://doi.org/10.1002/rse2.358
 
-## Description of project
-Habitat-forming organisms possess structural complexity that drive multiple ecosystem processes. There is a lack of knowledge and protocols on how to quantify Antarctic habitat-forming organisms structural complexity and associated species. This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss monitoring implications.
+## Overview
+Quantifying the structural complexity of marine benthic organisms represents an essential group of variables in ecology and fisheries. 
+This project aims to characterize the structural complexity of an Antarctic polychaete reef, describe a protocol to acquire this data, and discuss its relevance to current marine ecosystem pressures.
+Imagery was collected with a GoPro 5 at 2 Hz mounted on a remotely-operated vehicle in Ellis Fjord, Antarctica by the Australian Antarctic Division in 2019. 
+Orthomosaics and concomitant digital elevation rasters were created in Metashape. A laser-scale of 10 cm was used.
+Respectively, benthic biodiversity and structural complexity metrics were retrieved from the orthomosaic and its concomitant digital elevation raster ('3D model').
 
 ## Notebook
 Encouragement to use, clone and cite the notebook presented here.
-This is a notebook corresponding to the published publication:<br><br>
-Montes-Herrera, J.C., Hill, N., Cummings, V.J., Johnstone, G., Stark, J.S., Lucieer, V. 2023. **Remote sensing of Antarctic polychaete reefs: Reproducible workflows for quantifying benthic structural complexity with action cameras, remotely operated vehicles, and structure-from-motion photogrammetry**. *Remote Sensing in Ecology and Conservation*, 10: 72-90. https://doi.org/10.1002/rse2.358
 
 ## Contact
 J.C. Montes-Herrera <br>
@@ -18,8 +22,8 @@ Institute for Marine and Antarctic Studies (IMAS), University of Tasmania, Austr
 	- Frontal ROV video
 	- NADIR GoPro images & video
 - Table of ROV depth & transect times
-- Benthic cover annotations
-- Habitat structural metrics
+- Benthic cover annotations (.csv)
+- Habitat structural metrics (.csv)
 
 ## Data availability
 Orthomosaics and Digital Elevation Models available as raster files (.tiff)
