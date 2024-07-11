@@ -1,5 +1,6 @@
 # Structure-from-motion photogrammetry of Antarctic polychaete reefs
 This repository contains all the programming scripts and notebooks to process the orthomosaic and digital elevation raster files (.tiff) to retrieve benthic structural complexity metrics.
+
 Encouragement to use, clone and cite the repository presented here. Notebooks are presented both in python and PDF.
 
 This is a notebook corresponding to the publication:<br><br>
